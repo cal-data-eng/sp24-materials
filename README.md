@@ -1,3 +1,3 @@
-# Data 101 Fall 2023
+# Data 101 Spring 2024
 
 Public course materials.
